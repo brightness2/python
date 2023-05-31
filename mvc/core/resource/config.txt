@@ -1,0 +1,1 @@
+{"username": "Elaine", "webdriverVersion": "113.0.5672.63", "chrome": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", "pdfDir": "F:\\\u6211\u7684\u8d44\u6599\\python\\seleniumDemo"}
